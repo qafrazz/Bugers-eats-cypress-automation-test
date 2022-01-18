@@ -41,8 +41,6 @@ describe('Singup', () => {
     singup.alertMessageShoudBe(expectedMessage)
   });
 
-
-
   //Validação das mensagens obrigatórias por mensagem individualmente
   context('required fields', function () {
 
