@@ -1,0 +1,51 @@
+{
+"singup":{
+  "name": "Fernando Papito",
+  "cpf": "22694515037",
+  "email": "papito@hotmail.com",
+  "whatsapp": "11999999999",
+  "adress": {
+    "postalcode": "14056630",
+    "street": "Rua Sérgio Balduíno",
+    "number": "90",
+    "details": "Casa",
+    "district": "Jardim Arlindo Laguna",
+    "city_state": "Ribeirão Preto/SP"
+  },
+  "delivery_method": "Moto",
+  "cnh": "cnh-digital.jpg"
+},
+"cpf_inv":{
+  "name": "Jozé Papito",
+  "cpf": "22694515023347",
+  "email": "jose@hotmail.com",
+  "whatsapp": "11999999999",
+  "adress": {
+    "postalcode": "14056630",
+    "street": "Rua Sérgio Balduíno",
+    "number": "90",
+    "details": "Casa",
+    "district": "Jardim Arlindo Laguna",
+    "city_state": "Ribeirão Preto/SP"
+  },
+  "delivery_method": "Moto",
+  "cnh": "cnh-digital.jpg"
+},
+"email_inv":{
+  "name": "Fernando Papito",
+  "cpf": "22694515037",
+  "email": "papitohotmail.com.br",
+  "whatsapp": "11999999999",
+  "adress": {
+    "postalcode": "14056630",
+    "street": "Rua Sérgio Balduíno",
+    "number": "90",
+    "details": "Casa",
+    "district": "Jardim Arlindo Laguna",
+    "city_state": "Ribeirão Preto/SP"
+  },
+  "delivery_method": "Moto",
+  "cnh": "cnh-digital.jpg"
+}
+
+}
